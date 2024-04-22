@@ -1,0 +1,73 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-cuppom {
+  background-color: #28a745;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card-title {
+  color: #212529;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.card-subtitle {
+  color: #707070;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.card-direc {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 13px;
+}
+.precio {
+ text-align: right
+}
+.principal {
+  color: #28a745;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+}
+.descuento {
+  color: #707070;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.text-white {
+  font-family: "Roboto", sans-serif;
+  font-size: 21px;
+}
+.btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  background-color: white;
+  color: black;
+}
+
+.imag1 {
+  width: 100px;
+
+}
+.imag2 {
+  width: 82px;
+  margin-top: 30px;
+}
